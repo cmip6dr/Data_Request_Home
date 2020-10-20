@@ -35,7 +35,7 @@
 		<a href="dreqPyInstall.md">Installation and usage</a> of the python package</li>
 </ul>
 <p>
-	See Version <a href="/Releases/drq_release_01_00_32">01.00.32 Release Notes</a> for more details</p>
+	See Version <a href="/Releases/drq_release_01_00_32.md">01.00.32 Release Notes</a> for more details</p>
 <h2>
 	Addtional resources:</h2>
 <ul>
