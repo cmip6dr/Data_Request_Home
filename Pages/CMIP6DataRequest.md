@@ -51,7 +51,7 @@
 <h2>
 	Background Documents</h2>
 <p>
-	<a href="/Documents/CanESM2_download_statistics.xlsx">http://earthsystemcog.org/site_media/projects/wip/CanESM2_download_statistics.xlsx</a></p>
+	<a href="/Documents/CanESM2_download_statistics.xlsx">CanESM2_download_statistics.xlsx</a></p>
 <h2>
 	Glossary</h2>
 <p>
