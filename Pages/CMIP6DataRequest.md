@@ -3,7 +3,7 @@
 <div id="cog_post_body">
     <div id="cog_post_body">
         <p>
-	<strong>The CMIP6 experimental design and organization has been agreed at the WGCM 18th Session in October 2014, see details on the CMIP Panel website at <a href="https://webmail.stfc.ac.uk/OWA/redir.aspx?C=9lhNUoSXn0eBNTubURC0xLPpcdlhB9IIAqQbCXOTbD_r9OzGFE5wPTkFzDfwWCPgc5kYBB3mXYw.&amp;URL=http%3a%2f%2fwww.wcrp-climate.org%2findex.php%2fwgcm-cmip%2fabout-cmip" target="_blank"> http://www.wcrp-climate.org/index.php/wgcm-cmip/about-cmip</a>.</strong> Part of this covers the creation and <strong>timeline of the <em>CMIP6 Data Request</em>.</strong></p>
+	The CMIP6 experimental design and organization has been agreed at the WGCM 18th Session in October 2014, see details on the <a href="http://www.wcrp-climate.org/index.php/wgcm-cmip/about-cmip" target="_blank">CMIP Panel website</a>. Part of this covers the creation and timeline of the <em>CMIP6 Data Request</em>.</p>
 <p>
 	<strong>The data request is available through a repository, and the latest version is available here (updated April 4th, 2020</strong><strong>):</strong></p>
 <p>
