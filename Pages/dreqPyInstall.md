@@ -24,8 +24,7 @@
 	<kbd>drq -m HighResMIP,C4MIP -e historical --xls</kbd></p>
 <p>
 	will create a spreadsheet file listing the variables requested by C4MIP and HighResMIP for the &quot;historical&quot; experiment.</p>
-<p>
-	NB: the command line option &quot;--SF&quot; (which produces a broad range of spreadsheets) does <a href="https://github.com/cmip6dr/dreqPy/issues/3">not currenty work under python3.</a></p>
+
 <p>
 	For more information, see the following documents.</p>
 <ul>
