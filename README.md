@@ -1,4 +1,4 @@
-# Introduction
+# Data Request
 Introduction to the data request. Contact point for general enquiries.
 
 Use the [Issues](https://github.com/cmip6dr/Introduction/issues) tab above for enquiries.
