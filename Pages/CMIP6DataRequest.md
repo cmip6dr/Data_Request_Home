@@ -32,7 +32,7 @@
 	<li>
 		Registration for email list: <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=CMIP6-DATAREQUEST">CMIP6-DATAREQUEST@JISCMAIL.AC.UK</a></li>
 	<li>
-		<a href="https://earthsystemcog.org/projects/wip/dreqPyInstall">Installation and usage</a> of the python package</li>
+		<a href="dreqPyInstall.md">Installation and usage</a> of the python package</li>
 </ul>
 <p>
 	See Version <a href="https://earthsystemcog.org/projects/wip/drq_release_01_00_32">01.00.32 Release Notes</a> for more details</p>
@@ -42,7 +42,7 @@
 	<li>
 		The template used for initial submission of information (obsolete):<a href="/Documents/CMIP6DataRequestCompilationTemplate_20141218.xls"> template</a></li>
 	<li>
-		Table of&nbsp; previously used variable names: <a href="/Documents/MIPVariableNames.xls">MIP Variable Names</a></li>
+		Table of previously used variable names: <a href="/Documents/MIPVariableNames.xls">MIP Variable Names</a></li>
 	<li>
 		<p>
 			Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/Documents/CMIP6DataRequestCompilationGuidanceNote_150116.pdf"><strong>CMIP6 </strong>Data Request Compilation Guidance <strong>Note</strong></a></p>
