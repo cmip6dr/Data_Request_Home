@@ -1,14 +1,6 @@
-         
+<h1 class="title">Release 01.beta.38</h1>
 
-    <!--// START: /cog/templates/cog/post/page_template_main.html //-->
-<!--// loading page body from page_template_main.html //-->
-
-
-
-
-  	<!-- Data search widget -->
-  	
-
+<div id="cog_post_body">
     <div id="cog_post_body">
         <p>
 	Release 01.beta.38&nbsp; (Oct. 21st, 2016)</p>
@@ -32,16 +24,4 @@ P { margin-bottom: 0.21cm; }	</style>
 	drq -m LS3MIP -e ScenarioMIP --sf</p>
 <p>
 	&nbsp;</p>
-    </div> <!--// end div id=cog_post_body //-->
-
-    <!-- include last updated text -->
-    <!--// START: /cog/templates/cog/post/_post_last_update.html //-->
-
-    <!--clear:both added to move the last update down if any elements above are floated.-->
-    <!--clear:both means no floating elements allowed on either the left or the right side-->
-	<div id="last_update_text" style="font-size: 8pt; font-style: italic; text-align:center; clear:both;">
-	     Last Update: Jan. 27, 2017, 1:26 a.m. by
-         
-             <a href="/user/detail/1254/"></a>
-         
-	</div> <!--// end div id="last_update_text" //-->
+</div> <!--// end div id=cog_post_body //-->

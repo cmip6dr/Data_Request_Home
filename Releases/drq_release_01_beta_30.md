@@ -1,14 +1,6 @@
-         
+<h1 class="title">Data Request Release 01.beta.30</h1>
 
-    <!--// START: /cog/templates/cog/post/page_template_main.html //-->
-<!--// loading page body from page_template_main.html //-->
-
-
-
-
-  	<!-- Data search widget -->
-  	
-
+<div id="cog_post_body">
     <div id="cog_post_body">
         <p>
 	<style type="text/css">
@@ -38,16 +30,4 @@ H2 { margin-bottom: 0.21cm; }H2.ctl { font-family: "Lohit Hindi"; }P { margin-bo
 			added a &quot;units&quot; section, which is linked to from variable definitions. This allows more robust checking of units provides a mechanism for comparing related variables.</p>
 	</li>
 </ul>
-    </div> <!--// end div id=cog_post_body //-->
-
-    <!-- include last updated text -->
-    <!--// START: /cog/templates/cog/post/_post_last_update.html //-->
-
-    <!--clear:both added to move the last update down if any elements above are floated.-->
-    <!--clear:both means no floating elements allowed on either the left or the right side-->
-	<div id="last_update_text" style="font-size: 8pt; font-style: italic; text-align:center; clear:both;">
-	     Last Update: July 21, 2016, 9:06 a.m. by
-         
-             <a href="/user/detail/1254/"></a>
-         
-	</div> <!--// end div id="last_update_text" //-->
+</div> <!--// end div id=cog_post_body //-->

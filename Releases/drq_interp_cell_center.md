@@ -1,14 +1,6 @@
-         
+<h1 class="title">Data Request: interpolation to cell centers</h1>
 
-    <!--// START: /cog/templates/cog/post/page_template_main.html //-->
-<!--// loading page body from page_template_main.html //-->
-
-
-
-
-  	<!-- Data search widget -->
-  	
-
+<div id="cog_post_body">
     <div id="cog_post_body">
         <p>
 	In general, data variables should be provided at the center of the numerical mesh. There are a few exceptions which are requested on exactly the locations used in the numerical model (e.g. cell vertices or cell sides). When data is requested at the cell center it will have a cell_measures attribute value specified in the data request.</p>
@@ -36,16 +28,4 @@
 	Comment.</h2>
 <p>
 	For the 6hrLev fields ua, va, it appears that most groups submitting data to CMIP5 interpolated these to cell centres, which was not required (e.g. MOHC, HadGEM2-ES data has the 6hrLev fields on different grid locations, but IPSL models have them on the cell centres despite running the model with an Arakawa C grid).</p>
-    </div> <!--// end div id=cog_post_body //-->
-
-    <!-- include last updated text -->
-    <!--// START: /cog/templates/cog/post/_post_last_update.html //-->
-
-    <!--clear:both added to move the last update down if any elements above are floated.-->
-    <!--clear:both means no floating elements allowed on either the left or the right side-->
-	<div id="last_update_text" style="font-size: 8pt; font-style: italic; text-align:center; clear:both;">
-	     Last Update: Oct. 31, 2018, 9:50 a.m. by
-         
-             <a href="/user/detail/1254/"></a>
-         
-	</div> <!--// end div id="last_update_text" //-->
+</div> <!--// end div id=cog_post_body //-->

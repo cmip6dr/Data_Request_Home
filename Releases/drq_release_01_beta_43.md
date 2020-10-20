@@ -1,14 +1,6 @@
-         
+<h1 class="title">Release 01.beta.43</h1>
 
-    <!--// START: /cog/templates/cog/post/page_template_main.html //-->
-<!--// loading page body from page_template_main.html //-->
-
-
-
-
-  	<!-- Data search widget -->
-  	
-
+<div id="cog_post_body">
     <div id="cog_post_body">
         <p>
 	Added in the &quot;CMIP Request&quot;: this is a core set of variables, requested from the DECK and CMIP6 historical simulations. The &quot;CMIP&quot; requested variables should be provided for all models. This does not include any new variables (except for thos being introduced into the Omon and Oyr tables by OMIP);</p>
@@ -26,16 +18,4 @@
 	Added a feature to the python API to provide variable sheets sorted by frequency and realm, rather than by table:</p>
 <p>
 	drq -m &lt;mip1&gt;[,&lt;mip2]&nbsp; --sf --xfr</p>
-    </div> <!--// end div id=cog_post_body //-->
-
-    <!-- include last updated text -->
-    <!--// START: /cog/templates/cog/post/_post_last_update.html //-->
-
-    <!--clear:both added to move the last update down if any elements above are floated.-->
-    <!--clear:both means no floating elements allowed on either the left or the right side-->
-	<div id="last_update_text" style="font-size: 8pt; font-style: italic; text-align:center; clear:both;">
-	     Last Update: Jan. 27, 2017, 1:27 a.m. by
-         
-             <a href="/user/detail/1254/"></a>
-         
-	</div> <!--// end div id="last_update_text" //-->
+</div> <!--// end div id=cog_post_body //-->
