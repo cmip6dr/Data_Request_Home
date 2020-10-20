@@ -35,7 +35,7 @@
 		<a href="dreqPyInstall.md">Installation and usage</a> of the python package</li>
 </ul>
 <p>
-	See Version <a href="https://earthsystemcog.org/projects/wip/drq_release_01_00_32">01.00.32 Release Notes</a> for more details</p>
+	See Version <a href="/Releases/drq_release_01_00_32">01.00.32 Release Notes</a> for more details</p>
 <h2>
 	Addtional resources:</h2>
 <ul>
@@ -45,7 +45,7 @@
 		Table of previously used variable names: <a href="/Documents/MIPVariableNames.xls">MIP Variable Names</a></li>
 	<li>
 		<p>
-			Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/Documents/CMIP6DataRequestCompilationGuidanceNote_150116.pdf"><strong>CMIP6 </strong>Data Request Compilation Guidance <strong>Note</strong></a></p>
+			Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/Documents/CMIP6DataRequestCompilationGuidanceNote_150116.pdf">CMIP6 Data Request Compilation Guidance Note</a></p>
 	</li>
 </ul>
 <h2>
