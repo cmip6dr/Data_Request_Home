@@ -70,14 +70,13 @@
 	Addtional resources:</h2>
 <ul>
 	<li>
-		Template to be filled in and returned by Feb 28th (see revised timetable in guidance notes):<a href="http://earthsystemcog.org/site_media/projects/wip/CMIP6DataRequestCompilationTemplate_20141218.xls"> template</a></li>
+		Template to be filled in and returned by Feb 28th (see revised timetable in guidance notes): 
+		         <a href="/Documents/CMIP6DataRequestCompilationTemplate_20141218.xls?raw=True"> template</a></li>
 	<li>
-		Table of&nbsp; previously used variable names: <a href="https://earthsystemcog.org/site_media/projects/wip/MIPVariableNames.xls">MIP Variable Names</a></li>
+		Table of previously used variable names: 
+		       <a href="/Documents/MIPVariableNames.xls?raw=True">MIP Variable Names</a></li>
 	<li>
-		&nbsp;poll for data request telephone conferences: <a href="http://doodle.com/daste93aqpq3aziq">doodle poll</a></li>
-	<li>
-		<p>
-			Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/site_media/projects/wip/CMIP6DataRequestCompilationGuidanceNote_150116.pdf"><strong>CMIP6 </strong>Data Request Compilation Guidance <strong>Note</strong></a></p>
+		Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/Documents/CMIP6DataRequestCompilationGuidanceNote_150116.pdf"><strong>CMIP6 </strong>Data Request Compilation Guidance <strong>Note</strong></a><
 	</li>
 	<li>
 		Enter observational dataset to be used for data validation: <a href="http://goo.gl/forms/LBN9yninxS">dataset registry form</a> (or <a href="https://docs.google.com/spreadsheets/d/1X-IProjJWaKUVAtPdaOCq0lPypUcOi102AD_2oL6748/edit#gid=1181296695">view registry</a>)</li>
