@@ -23,7 +23,7 @@
 	<li> <a href="Pages/dreqPyInstall.html">Installation and usage</a> of the python package</li>
 </ul>
 <p>
-	See Version <a href="Pages/Releases/drq_release_01_00_33.html">01.00.33 Release Notes</a> for more details</p>
+	See Version <a href="Releases/drq_release_01_00_33.html">01.00.33 Release Notes</a> for more details</p>
 <h2>
 	Addtional resources:</h2>
 <ul>
