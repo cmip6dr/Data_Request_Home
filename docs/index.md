@@ -3,9 +3,9 @@
 <p>
 	The CMIP6 experimental design and organization has been agreed at the WGCM 18th Session in October 2014, see details on the <a href="http://www.wcrp-climate.org/index.php/wgcm-cmip/about-cmip" target="_blank">CMIP Panel website</a>. Part of this covers the creation and timeline of the <em>CMIP6 Data Request</em>.</p>
 <p>
-	<strong>The data request is available through a repository, and the latest version is available here (updated April 4th, 2020</strong><strong>):</strong></p>
+	<strong>The data request is available through a repository, and the latest version is available here (updated November 6th, 2020</strong><strong>):</strong></p>
 <p>
-	<a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.32">http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.32</a></p>
+	<a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.33">http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.33</a></p>
 <p>
 	An overview of the pressure levels proposed for atmospheric diagnostics is <a href="/Data_Request_Home/Documents/CMIP6_pressure_levels.pdf">available for discussion (here).</a></p>
 <p>
@@ -20,10 +20,10 @@
 	<li> Overview tables for <a href="http://clipc-services.ceda.ac.uk/dreq/tab01_1_1.html">tier 1, priority 1</a> and <a href="http://clipc-services.ceda.ac.uk/dreq/tab01_3_3.html">all tiers and priorities</a></li>
 	<li> Discussion of issues: <a href="https://github.com/cmip6dr">github pages</a></li>
 	<li> Registration for email list: <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=CMIP6-DATAREQUEST">CMIP6-DATAREQUEST@JISCMAIL.AC.UK</a></li>
-	<li> <a href="Pages/dreqPyInstall.md">Installation and usage</a> of the python package</li>
+	<li> <a href="Pages/dreqPyInstall.html">Installation and usage</a> of the python package</li>
 </ul>
 <p>
-	See Version <a href="Pages/Releases/drq_release_01_00_32.md">01.00.32 Release Notes</a> for more details</p>
+	See Version <a href="Pages/Releases/drq_release_01_00_33.html">01.00.33 Release Notes</a> for more details</p>
 <h2>
 	Addtional resources:</h2>
 <ul>
