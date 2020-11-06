@@ -7,7 +7,7 @@
 <p>
 	<a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.32">http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.32</a></p>
 <p>
-	An overview of the pressure levels proposed for atmospheric diagnostics is <a href="/Documents/CMIP6_pressure_levels.pdf">available for discussion (here).</a></p>
+	An overview of the pressure levels proposed for atmospheric diagnostics is <a href="/Data_Request_Home/Documents/CMIP6_pressure_levels.pdf">available for discussion (here).</a></p>
 <p>
 	Key documents describing the request (in the &quot;docs&quot; directory of the repository) are:</p>
 <ul>
@@ -20,19 +20,19 @@
 	<li> Overview tables for <a href="http://clipc-services.ceda.ac.uk/dreq/tab01_1_1.html">tier 1, priority 1</a> and <a href="http://clipc-services.ceda.ac.uk/dreq/tab01_3_3.html">all tiers and priorities</a></li>
 	<li> Discussion of issues: <a href="https://github.com/cmip6dr">github pages</a></li>
 	<li> Registration for email list: <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=CMIP6-DATAREQUEST">CMIP6-DATAREQUEST@JISCMAIL.AC.UK</a></li>
-	<li> <a href="dreqPyInstall.md">Installation and usage</a> of the python package</li>
+	<li> <a href="Pages/dreqPyInstall.md">Installation and usage</a> of the python package</li>
 </ul>
 <p>
-	See Version <a href="/Releases/drq_release_01_00_32.md">01.00.32 Release Notes</a> for more details</p>
+	See Version <a href="Pages/Releases/drq_release_01_00_32.md">01.00.32 Release Notes</a> for more details</p>
 <h2>
 	Addtional resources:</h2>
 <ul>
-	<li> The template used for initial submission of information (obsolete):<a href="/Documents/CMIP6DataRequestCompilationTemplate_20141218.xls"> template</a></li>
-	<li> Table of previously used variable names: <a href="/Documents/MIPVariableNames.xls">MIP Variable Names</a></li>
-	<li> <p> Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/Documents/CMIP6DataRequestCompilationGuidanceNote_150116.pdf">CMIP6 Data Request Compilation Guidance Note</a></p> </li>
+	<li> The template used for initial submission of information (obsolete):<a href="/Data_Request_Home/Documents/CMIP6DataRequestCompilationTemplate_20141218.xls"> template</a></li>
+	<li> Table of previously used variable names: <a href="/Data_Request_Home/Documents/MIPVariableNames.xls">MIP Variable Names</a></li>
+	<li> <p> Guidance on information request issued in December 2014 (updated, Jan. 16, 2015): <a href="/Data_Request_Home/Documents/CMIP6DataRequestCompilationGuidanceNote_150116.pdf">CMIP6 Data Request Compilation Guidance Note</a></p> </li>
 </ul>
 <h2> Background Documents</h2>
-<p> <a href="/Documents/CanESM2_download_statistics.xlsx">CanESM2_download_statistics.xlsx</a></p>
+<p> <a href="/Data_Request_Home/Documents/CanESM2_download_statistics.xlsx">CanESM2_download_statistics.xlsx</a></p>
 <h2>Glossary</h2>
 <p>
 	<strong>Data Request</strong>: A request from the CMIP panels to the modelling groups for data to be contributed to the archive, specifying the variables which are needed for each experiments.</p>
