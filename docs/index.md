@@ -5,16 +5,16 @@
 <p>
 	<strong>The data request is available through a repository, and the latest version is available here (updated November 6th, 2020</strong><strong>):</strong></p>
 <p>
-	<a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.33">http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/01.00.33</a></p>
+	<a href="https://github.com/cmip6dr/data_request_snapshots">https://github.com/cmip6dr/data_request_snapshots</a></p>
 <p>
 	An overview of the pressure levels proposed for atmospheric diagnostics is <a href="/Data_Request_Home/Documents/CMIP6_pressure_levels.pdf">available for discussion (here).</a></p>
 <p>
 	Key documents describing the request (in the &quot;docs&quot; directory of the repository) are:</p>
 <ul>
-	<li> <a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/trunk/dreqPy/docs/dreqExamples.pdf">Examples</a></li>
-	<li> <a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/latest/dreqPy/docs/dreqPy.pdf">Documentation: Python Library (dreqPy)</a></li>
-	<li> <a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/latest/dreqPy/docs/dreqML.pdf">Documentation: The Request XML document and Schema</a></li>
-	<li> <a href="http://proj.badc.rl.ac.uk/svn/exarch/CMIP6dreq/tags/latest/dreqPy/docs/CMIP6_MIP_tables.xlsx">Spreadsheet view of the variable definitions</a></li>
+	<li> <a href="https://github.com/cmip6dr/data_request_snapshots/tree/main/Release/dreqPy/docs/dreqExamples.pdf">Examples</a></li>
+	<li> <a href="https://github.com/cmip6dr/data_request_snapshots/tree/main/Release/dreqPy/docs/dreqPy.pdf">Documentation: Python Library (dreqPy)</a></li>
+	<li> <a href="https://github.com/cmip6dr/data_request_snapshots/tree/main/Release/dreqPy/docs/dreqML.pdf">Documentation: The Request XML document and Schema</a></li>
+	<li> <a href="https://github.com/cmip6dr/data_request_snapshots/tree/main/Release/dreqPy/docs/CMIP6_MIP_tables.xlsx">Spreadsheet view of the variable definitions</a></li>
 	<li> <a href="http://clipc-services.ceda.ac.uk/dreq/mipVars.html">A searchable list of variables in the request</a>, linking to</li>
 	<li> <a href="http://clipc-services.ceda.ac.uk/dreq/index.html">A browsable HTML view of the request [CURRENTLY ON THE PREVIOUS VERSION]</a></li>
 	<li> Overview tables for <a href="http://clipc-services.ceda.ac.uk/dreq/tab01_1_1.html">tier 1, priority 1</a> and <a href="http://clipc-services.ceda.ac.uk/dreq/tab01_3_3.html">all tiers and priorities</a></li>
